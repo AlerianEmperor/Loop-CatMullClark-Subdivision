@@ -3,7 +3,6 @@ Implementation of two of the most famous subdivision algorithms: Loops Subdivisi
 
 The techniques in this project can be easily extended to implement other subdivision methods: Butterfly, DooSabin... More over, the source code only use hash map instead of the half-edge data structure, making it very easy to understand, and run very fast.
 
-PS: Feel Free To ask me if you don't understand the magic behind the code. 
 
 # Loop Subdivision
 ![Loop_Subdivision_0](https://user-images.githubusercontent.com/93391908/140247603-b556cd3a-32d4-43ca-ab2d-c653c4b42a1e.png)
