@@ -1,7 +1,7 @@
 # 3D-Subdivision-Surface
 Implementation of two of the most famous subdivision algorithms: Loops Subdivision for Triangles and CatMull-Clark Subdivision for Quads.
 
-The techniques in this project can be easily extended to implement other subdivision methods: Butterfly, DooSabin... More over, the source code only use hash map instead of the half-edge data structure, making it very easy to understand, and run very fast.
+The techniques used in this project can be easily extended to implement other subdivision methods: Butterfly, DooSabin... More over, the source code only use hash map instead of the half-edge data structure, making it very easy to understand, and run very fast.
 
 
 # Loop Subdivision
