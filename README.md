@@ -1,4 +1,3 @@
-Thank You xJayLee for starring me seven of your precious stars, Thank you for your generosity, May God on your side, Happy Coding!
 
 # 3D-Subdivision-Surface
 Implementation of two of the most famous subdivision algorithms: Loops Subdivision for Triangles and CatMull-Clark Subdivision for Quads.
